@@ -1,0 +1,9 @@
+[package]
+name = "http"
+version = "0.1.0"
+authors = ["dannyfritz"]
+
+[dependencies]
+hyper = "0.9.0"
+serde = "0.8"
+serde_json = "0.8"
